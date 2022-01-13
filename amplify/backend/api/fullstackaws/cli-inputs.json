@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "fullstackaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\MASTER\\Desktop\\amplifyapp\\amplify\\backend\\api\\fullstackaws\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
